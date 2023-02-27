@@ -43,7 +43,7 @@ python ./scripts/plot_exp_W_max.py
 ```
 ### Bibtex
 ```angular2html
-@InProceedings{wang/Joachims/2023/uncertainty,
+@InProceedings{wang/joachims/2023/uncertainty,
   title = {Uncertainty Quantification for Fairness in Two-Stage Recommender Systems},
   author = {Wang, Lequn and Joachims, Thorsten},
   booktitle = {ACM Conference on Web Search and Data Mining (WSDM)},
